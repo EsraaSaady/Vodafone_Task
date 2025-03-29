@@ -1,2 +1,1 @@
-# Small test task for adding and delete user
-# To run this project on your machine, just open "configrations/config.properties", then modify the "driverPath" value to the one which is on your machine.
+#Small task for E2E script which add items to cart from home screen and from search screen and API script for getting types of jokes and getting joke by ID using Selenium, Rest Assured, Cucumber and Extent Reporting sysytem
