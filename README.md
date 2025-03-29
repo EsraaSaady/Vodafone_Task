@@ -1,1 +1,1 @@
-#Small task for E2E script which add items to cart from home screen and from search screen and API script for getting types of jokes and getting joke by ID using Selenium, Rest Assured, Cucumber and Extent Reporting sysytem
+#Small task for E2E script which add items to cart from home screen and from search screen and API script for getting types of jokes and getting joke by ID using Selenium, Rest Assured, Cucumber and Extent Reporting sysytem.
